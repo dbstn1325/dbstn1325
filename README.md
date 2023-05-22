@@ -1,7 +1,5 @@
 ## Hi, I'm Yoonsu 👋
 
----
-
 ```html
 software is cool
 ```
