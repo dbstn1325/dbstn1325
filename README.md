@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi, I'm Yoonsu 👋
 
-<!--
-**dbstn1325/dbstn1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```html
+software is cool
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Mainly using
+```html
+Backend
+- Spring Boot
+- JPA
+
+Database
+- Mysql
+
+Frontend
+- Javascript
+- React
+- Flutter
+
+ETC
+- Docker-compose
+- Kafka
+```
+
+### 👀 Sometimes using
+```html
+Backend
+- NodeJS
+- NestJS
